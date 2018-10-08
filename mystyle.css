@@ -1,10 +1,11 @@
 textarea{
   width: 60%;
   height:600px;
-margin-left: 20%;
-margin-right: 20%;
-border-radius: 5px;
-border-left: 5px solid green;
-font-family: sans-serif;
-padding: 3px;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 5px;
+  border:2px solid black;
+  border-left: 5px solid green;
+  font-family: sans-serif;
+  padding: 3px;
 }
